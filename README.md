@@ -1,4 +1,4 @@
-<img src="https://github.com/RiyaShah13/RiyaShah13/blob/master/riya.png" alt="Hello world">
+<img src="https://github.com/ShahRiya13/RiyaShah13/blob/main/riya.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
